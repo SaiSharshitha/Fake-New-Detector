@@ -50,7 +50,7 @@ The machine learning pipeline is documented in the [Jupyter Notebooks](models/fn
 
 ---
 
-## 🛠️ Local Installation & Usage
+## 🛠️ Local Installation & Usage 
 
 ### 1. Clone the repository
 ```bash
@@ -78,3 +78,5 @@ Make sure you have trained/placed the model and vectorizer PKL files in the `mod
 streamlit run app.py
 ```
 This will launch the app in your default browser at `http://localhost:8501`.
+```
+DEPLOYMENT LINK: https://fake-new-detector-b3njmyu9evbs63hxkdqyer.streamlit.app/
