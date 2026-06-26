@@ -40,4 +40,3 @@ venv.bak/
 
 # Project-specific large files
 *.csv
-*.pkl
